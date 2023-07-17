@@ -1,0 +1,30 @@
+.employee_list_parent{
+  /*   background-color: rgb(170, 130, 245); */
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  color: rgb(0, 0, 0);
+  margin-top: -50px;
+
+
+}
+.form_control{
+    width: 500px;
+}
+.form_parent{
+/*   background-image: linear-gradient(to right, rgb(217, 220, 111) , rgb(7, 159, 247)); */
+  padding: 30px;
+  border-radius: 20px;
+  border: 1px solid rgb(0, 0, 0);
+  height: 100%;
+}
+.editform{
+  position: absolute;
+  bottom: 60px;
+}
+@media only screen and (max-width: 700px) {
+  .form_control {
+   width: 300px;
+  }
+ 
+}
