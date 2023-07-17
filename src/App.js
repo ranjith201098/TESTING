@@ -56,7 +56,7 @@ function App() {
           <div  style={{color:"red"}}>{password_error1}</div>
         </div>
         <div className='button'>
-          <button style={{textAlign:"center",marginTop:"20px",backgroundColor:"yellow",width:"300px",height:"40px",borderRadius:"10px"}} type='submit'>login</button>
+          <button style={{textAlign:"center",marginTop:"20px",backgroundColor:"yellow",width:"300px",height:"40px",borderRadius:"10px"}} type='submit'>click</button>
         </div>
         </form>
         </div>
